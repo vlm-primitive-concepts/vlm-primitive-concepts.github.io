@@ -1,6 +1,7 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@article{
+yun2023do,
+title={Do Vision-Language Pretrained Models Learn Composable Primitive Concepts?},
+author={Tian Yun and Usha Bhalla and Ellie Pavlick and Chen Sun},
+journal={Transactions on Machine Learning Research},
+year={2023},
 }
